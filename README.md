@@ -8,3 +8,5 @@ test test
 EVEN ANOTHER test 
 
 testing
+
+testing a pointed feature behavior
